@@ -1,3 +1,1 @@
-# Slider
-# Slider
-# Slider
+# image---Slider
